@@ -1,3 +1,7 @@
+"""CSV tool from https://github.com/L3viathan/toolib
+"""
+
+
 from collections import namedtuple
 import csv
 
