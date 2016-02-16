@@ -35,7 +35,7 @@ In all files the field separator is ","
 		✓ book_id
 		✓ book_title
 		✗ gender ("_" for unknown cases)
-		✗ other traits ("_" for unknown cases): position in a hierarchy (but how we determine this hierarchy automatically? or http://learn.lexiconic.net/characters.htm), sentiment, adjectives/adverbs that are most frequent used by those characters, relation to others?  
+		✗ other traits: position in a hierarchy (but how we determine this hierarchy automatically? or http://learn.lexiconic.net/characters.htm), sentiment, adjectives/adverbs that are most frequent used by those characters, networks of relationships to others?  
 
 - books_quotes.csv
 	- contains the actual text of each quote
