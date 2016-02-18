@@ -13,4 +13,4 @@ with open('conversations.jsonl', 'r') as f:
             books[chain['book_title']][character] += 1
 
 for book in books:
-    print('\033[1m' + book + '\033[0m', books[book].most_common(5), sep=' ')
+    print('\033[31;40;1m' + book + '\033[0m', books[book].most_common(5), sep=' ')
