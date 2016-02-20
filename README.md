@@ -1,5 +1,6 @@
 # gutenberg-conversations
-This corpus contains a collection of fictional conversations extracted from raw novels of The Gutenberg Project
+This corpus contains a collection of fictional conversations extracted from raw novels of The Gutenberg Project.
+The files used to create it were obtained using the [book-nlp](https://github.com/dbamman/book-nlp).
 
 - 86185 conversational exchanges between pairs of movie characters
 - involves 67942 characters from 928 novels
