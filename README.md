@@ -2,7 +2,7 @@
 This corpus contains a collection of fictional conversations extracted from raw novels of The Gutenberg Project.
 The files used to create it were obtained using the [book-nlp](https://github.com/dbamman/book-nlp).
 
-- 86185 conversational exchanges between pairs of movie characters
+- 86185 conversational exchanges between pairs of novel characters
 - involves 67942 characters from 928 novels
 - in total 578213 utterances
 - novel metadata not included yet: %TO DO:
